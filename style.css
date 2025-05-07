@@ -1,6 +1,7 @@
 body {
     font-family: 'Segoe UI', sans-serif;
-    background-color: #e3f2fd;
+    background: url('stadium1.jpg') no-repeat center center fixed;
+    background-size: cover;
     text-align: center;
     padding: 40px;
 }
